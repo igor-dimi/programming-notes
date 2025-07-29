@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Programming 0, I, and II"
+  author: "Igor Dimitrov"
+  date: "12/18/2024"
+  chapters:
+    - index.qmd
+  downloads: ["pdf"]
+  page-navigation: true
+
+bibliography: references.bib
+
+csl: nature.csl
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    number-depth: 1
+
+
+
+  
