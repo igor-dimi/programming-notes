@@ -1,0 +1,71 @@
+---
+title: Reading List
+---
+
+## Programmign 0
+
+* Programming from First Principles. Bornat
+* Karel the Robot - A Gentle Introduction to the Art of Programming. Pattis
+
+### Pascal
+
+* Programming via Pascal. Rohl
+* Writing Pascal Programs. Rohl
+* Pascal at Work and Play. Forsyth
+* A Practical Introduction to Pascal. Addyman
+* Introduction to Computing with Pascal. Biggs
+
+### Python 
+
+* Practical Programming - An Introduction to Computer Science Using Python 3.6. Gries
+* Explorations in Computing - An Introduction to Computer Science and Python Programming. Conery
+* A Beginners Guide to Python 3 Programming. Hunt
+* Learn Python Visually - Creating Coding with Processing.py
+* Python Programming Exercises - Gently Explained. Sweigart
+
+### Processing
+
+* Processing - An Introduction to Programming. Nyhoff
+
+## Programming I
+
+### Competitive Programming & Algorithmic Thinking
+
+* Algorithms and Programming - Problems and Solutions. Shen
+* How to Solve it By Computer. Dromey
+* Learning Algorithms Through Programming and Puzzle Solving. Kulikov, Pevzner
+* Principles of Algorithmic Problem Solving. Sannemo
+* Algorithmic Thinking, 2nd ed. Zingaro
+* Competitive Programming in Python. Duerr
+* Problem Solving & Computer Programming. Grogono, Nelson
+* Problem Solving Principles - Programming with Pascal. Prather
+* Primes and Programming - Computers and Number Theory. Giblin
+* Exploring Mathematics with Your Computer. Engel
+* Programming Concepts - A Second Course. Jones
+
+### Insightful and Theoretical
+
+* Theoretical Introduction to Programming. Mills
+* Programming for Mathematicians. O'Shea
+* Reasoned Programming. Broda
+* Practical Formal Software Engineering - Wanting the Software You Get. Mills
+* What Computing is All About. Snepsheut
+* Elements of Programming. Stepanov, McJones
+* Isomorphism - Mathematics of Programming. Liu
+* The Craft of Programming. Reynolds
+* The Logic of Programming. Hehner
+* Informatik - Eine Grundlegende Einfuehrung, Vol I - IV. Broy
+
+### Recursion Specific
+
+* Introduction to Recursive Programming. Rubio-Sanchez
+* Recursion Via Pascal. Rohl
+* Thinking Recursively in Java. Roberts
+* The Recursive Book of Recursion. Sweigart
+  
+
+### Practical & Program Design
+
+* The Practice of Programming. Kernighan, Pike
+* Writing Efficient Programs. Bentley
+* Elements of Programming Style. Kernighan, Plauger

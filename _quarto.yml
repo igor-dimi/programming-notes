@@ -7,6 +7,7 @@ book:
   date: "12/18/2024"
   chapters:
     - index.qmd
+    - reading.qmd
   downloads: ["pdf"]
   page-navigation: true
 
@@ -23,4 +24,3 @@ format:
 
 
 
-  
