@@ -8,5 +8,35 @@
     "crumbs": [
       "Preface"
     ]
+  },
+  {
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "1.1 Programmign 0",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#programmign-0",
+    "href": "reading.html#programmign-0",
+    "title": "1  Reading List",
+    "section": "",
+    "text": "Programming from First Principles. Bornat\nKarel the Robot - A Gentle Introduction to the Art of Programming. Pattis\n\n\n1.1.1 Pascal\n\nProgramming via Pascal. Rohl\nWriting Pascal Programs. Rohl\nPascal at Work and Play. Forsyth\nA Practical Introduction to Pascal. Addyman\nIntroduction to Computing with Pascal. Biggs\n\n\n\n1.1.2 Python\n\nPractical Programming - An Introduction to Computer Science Using Python 3.6. Gries\nExplorations in Computing - An Introduction to Computer Science and Python Programming. Conery\nA Beginners Guide to Python 3 Programming. Hunt\nLearn Python Visually - Creating Coding with Processing.py\nPython Programming Exercises - Gently Explained. Sweigart\n\n\n\n1.1.3 Processing\n\nProcessing - An Introduction to Programming. Nyhoff",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#programming-i",
+    "href": "reading.html#programming-i",
+    "title": "1  Reading List",
+    "section": "1.2 Programming I",
+    "text": "1.2 Programming I\n\n1.2.1 Competitive Programming & Algorithmic Thinking\n\nAlgorithms and Programming - Problems and Solutions. Shen\nHow to Solve it By Computer. Dromey\nLearning Algorithms Through Programming and Puzzle Solving. Kulikov, Pevzner\nPrinciples of Algorithmic Problem Solving. Sannemo\nAlgorithmic Thinking, 2nd ed. Zingaro\nCompetitive Programming in Python. Duerr\nProblem Solving & Computer Programming. Grogono, Nelson\nProblem Solving Principles - Programming with Pascal. Prather\nPrimes and Programming - Computers and Number Theory. Giblin\nExploring Mathematics with Your Computer. Engel\nProgramming Concepts - A Second Course. Jones\n\n\n\n1.2.2 Insightful and Theoretical\n\nTheoretical Introduction to Programming. Mills\nProgramming for Mathematicians. O’Shea\nReasoned Programming. Broda\nPractical Formal Software Engineering - Wanting the Software You Get. Mills\nWhat Computing is All About. Snepsheut\nElements of Programming. Stepanov, McJones\nIsomorphism - Mathematics of Programming. Liu\nThe Craft of Programming. Reynolds\nThe Logic of Programming. Hehner\nInformatik - Eine Grundlegende Einfuehrung, Vol I - IV. Broy\n\n\n\n1.2.3 Recursion Specific\n\nIntroduction to Recursive Programming. Rubio-Sanchez\nRecursion Via Pascal. Rohl\nThinking Recursively in Java. Roberts\nThe Recursive Book of Recursion. Sweigart\n\n\n\n1.2.4 Practical & Program Design\n\nThe Practice of Programming. Kernighan, Pike\nWriting Efficient Programs. Bentley\nElements of Programming Style. Kernighan, Plauger",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Reading List</span>"
+    ]
   }
 ]
