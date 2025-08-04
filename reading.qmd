@@ -57,6 +57,9 @@ title: Reading List
 * Informatik - Eine Grundlegende Einfuehrung, Vol I - IV. Broy
 * Logische und Methodische Grundlagen der Progarmm- und Systementwicklung - Datenstrukture, funkionale, sequenzielle, und objektorientierte
   Programmierung. Broy
+* Concepts, Techniques, and Models of Computer Programming. Van Roy, Haridi
+* Elements of Programming. Alexander Stepanov, Paul McJones
+* From Mathematics to Generic Programming. Alexander A. Stepanov
 
 ### Recursion Specific
 
