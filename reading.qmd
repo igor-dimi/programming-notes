@@ -55,6 +55,8 @@ title: Reading List
 * The Craft of Programming. Reynolds
 * The Logic of Programming. Hehner
 * Informatik - Eine Grundlegende Einfuehrung, Vol I - IV. Broy
+* Logische und Methodische Grundlagen der Progarmm- und Systementwicklung - Datenstrukture, funkionale, sequenzielle, und objektorientierte
+  Programmierung. Broy
 
 ### Recursion Specific
 
