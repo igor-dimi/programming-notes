@@ -20,8 +20,14 @@ title: Reading List
 * Practical Programming - An Introduction to Computer Science Using Python 3.6. Gries
 * Explorations in Computing - An Introduction to Computer Science and Python Programming. Conery
 * A Beginners Guide to Python 3 Programming. Hunt
+* Fundamentals of Pthon - First Programs. Kenneth A Lambert
+* Python for Everyone (3rd ed). Cay Horstmann, Rance necaise
 * Learn Python Visually - Creating Coding with Processing.py
+* Python Crash Course - A Hands-on, Project-based Guide. Eric Matthes
+* Learning Python - Powerful Object Oriented Programming. Mark Lutz
 * Python Programming Exercises - Gently Explained. Sweigart
+* Invent Your Own Computer Games with Python. Al Sweigart
+* Beyond the Basic Stuff with Python - Best Practices for Writing Clean Code. Al Sweigart
 
 ### Processing
 
@@ -36,6 +42,7 @@ title: Reading List
 * Learning Algorithms Through Programming and Puzzle Solving. Kulikov, Pevzner
 * Principles of Algorithmic Problem Solving. Sannemo
 * Algorithmic Thinking, 2nd ed. Zingaro
+* Problem Solving in Data Structures & Algorithms Using C++. Hemant Jain
 * Competitive Programming in Python. Duerr
 * Problem Solving & Computer Programming. Grogono, Nelson
 * Problem Solving Principles - Programming with Pascal. Prather
