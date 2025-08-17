@@ -31,7 +31,11 @@ title: Reading List
 
 ### Processing
 
+* Make: Getting Started with p5.js - Making Interactive  Graphics in JavaSCript and Processing. McCarthy, Reas, Fry
+* The Nature of Code. Daniel Shifffman
+* Introduction to Game Development Using Procesesing. James R Parker
 * Processing - An Introduction to Programming. Nyhoff
+* Programmieren lernen mit Computergrafik - Eine Einfuehrung mit Java und Processing. Deussen, Ningelgen
 
 ## Programming I
 
