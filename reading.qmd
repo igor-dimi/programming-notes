@@ -28,6 +28,8 @@ title: Reading List
 * Python Programming Exercises - Gently Explained. Sweigart
 * Invent Your Own Computer Games with Python. Al Sweigart
 * Beyond the Basic Stuff with Python - Best Practices for Writing Clean Code. Al Sweigart
+* Introducing Python: Modern Computing in Simple Packages. Lubanovic
+* Fluent Python: clear, concise, and effective programming. Ramalho
 
 ### Processing
 
