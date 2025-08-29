@@ -1,2 +1,18 @@
-/_book/
-/.quarto/
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# Quarto build outputs
+_book/
+.quarto/
+*.html
+*.pdf
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
