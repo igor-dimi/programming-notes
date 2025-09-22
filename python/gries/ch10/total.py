@@ -24,6 +24,3 @@ if __name__ == '__main__':
     with open('number_pairs.txt', 'r') as in_file, \
         open('number_pairs_sums.txt', 'w') as out_file:
         sum_number_pairs(in_file, out_file)
-
-    
-

@@ -1,0 +1,19 @@
+COMPND    AMMONIA
+ATOM      1  N   0.257  -0.363   0.000
+ATOM      2  H   0.257   0.727   0.000
+ATOM      3  H   0.771  -0.727   0.890
+ATOM      4  H   0.771  -0.727  -0.890
+COMPND    WATER
+ATOM      1  O   0.000   0.000   0.000
+ATOM      2  H   0.758   0.584   0.000
+ATOM      3  H  -0.758   0.584   0.000
+COMPND    METHANE
+ATOM      1  C   0.000   0.000   0.000
+ATOM      2  H   0.629   0.629   0.629
+ATOM      3  H  -0.629  -0.629   0.629
+ATOM      4  H   0.629  -0.629  -0.629
+ATOM      5  H  -0.629   0.629  -0.629
+COMPND    CARBON DIOXIDE
+ATOM      1  O  -1.160   0.000   0.000
+ATOM      2  C   0.000   0.000   0.000
+ATOM      3  O   1.160   0.000   0.000
